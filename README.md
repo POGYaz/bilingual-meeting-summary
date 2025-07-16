@@ -1,7 +1,3 @@
-**Status:** 🚧 *Pre‑alpha — planning phase*
-
----
-
 ## What is this project?
 
 A lightweight pipeline that takes recorded meetings (Arabic + English mix), automatically detects each speaker, converts speech to text, and asks a Large Language Model (LLM) to produce:
