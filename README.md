@@ -1,6 +1,8 @@
 # Arabic-English Meeting Summarizer (MVP)
 
-This project is an MVP for a bilingual (Arabic-English) meeting summarizer. The goal is to process meeting audio, transcribe, and summarize discussions efficiently. The codebase is organized using the Separation of Concerns (SoC) principle for clarity and maintainability.
+This project is an MVP for a bilingual (Arabic-English) meeting summarizer. The goal is to process meeting audio, transcribe, and summarize discussions efficiently.
+
+In addition to building the summarizer, this project will be used to practice and demonstrate MLOps and ML Engineering techniques throughout its development.
 
 ## Project Structure
 
